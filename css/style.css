@@ -1,0 +1,12 @@
+:root{
+    --white-colore:#fff;
+}
+body{
+    background-color: var(--white-colore);
+}
+.link{
+    text-decoration: none;
+}
+.list{
+    list-style: none;
+}
